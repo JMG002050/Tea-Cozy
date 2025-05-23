@@ -47,3 +47,17 @@ _(Replace the link with your actual GitHub Pages link after deployment)_
 ├── index.html
 ├── README.md
 ├── .gitignore
+
+## 🙌 Acknowledgments
+
+Big thanks to [Codecademy](https://www.codecademy.com/) for the original project prompt and learning path.
+
+---
+
+## ✍️ Author
+
+**Jorge Martinez Gamez**  
+📧 [jorge1austin1@gmail.com](mail to:jorge1austin1@gmail.com)
+
+---
+
