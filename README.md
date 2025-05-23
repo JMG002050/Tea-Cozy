@@ -4,7 +4,7 @@ A responsive, visually polished website for a fictional tea company, built as pa
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the site](https://yourusername.github.io/tea-cozy/)
+🔗 [Click here to view the site](https://jmg002050.github.io/Tea-Cozy/)
 _(Replace the link with your actual GitHub Pages link after deployment)_
 
 ## 🛠️ Built With
