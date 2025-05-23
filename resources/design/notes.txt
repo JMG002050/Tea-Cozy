@@ -1,0 +1,13 @@
+Colors to use:
+🍃 2. Herbal Fresh
+Clean and modern with green tones.
+
+Background: #F8F9F5 (off-white/green tint)
+
+Primary: #5B8A72 (sage green)
+
+Accent: #A5BEBA (minty green)
+
+Highlight: #E6EBD9 (light herb)
+
+Text: #333333 (deep gray)
