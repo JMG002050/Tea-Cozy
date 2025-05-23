@@ -84,7 +84,7 @@ nav ul li a:hover::after {
 /* === HERO SECTION === */
 .hero {
     height: 600px;
-    background-image: url(./resources/images/hero-img.jpg);
+    background-image: url(/resources/images/hero-img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 80px;
@@ -246,7 +246,7 @@ nav ul li a:hover::after {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(./resources/images/locations-background.webp);
+    background-image: url(/resources/images/locations-background.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 30% 90%;
